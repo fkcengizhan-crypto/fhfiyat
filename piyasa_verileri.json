@@ -1,5 +1,5 @@
 {
-  "guncelleme_zamani": "2026-07-31T18:32:23.075680+03:00",
+  "guncelleme_zamani": "2026-07-31T18:41:42.006769+03:00",
   "fonlar": [
     {
       "Fon Kodu": "AAL",
@@ -4313,11 +4313,6 @@
       "Hisse Fiyatı": 85.1
     },
     {
-      "Hisse Kodu": "KRDMA",
-      "Hisse Adı": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
-      "Hisse Fiyatı": 42.48
-    },
-    {
       "Hisse Kodu": "KRDMD",
       "Hisse Adı": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
       "Hisse Fiyatı": 41.2
@@ -4326,6 +4321,11 @@
       "Hisse Kodu": "KRDMB",
       "Hisse Adı": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
       "Hisse Fiyatı": 134.5
+    },
+    {
+      "Hisse Kodu": "KRDMA",
+      "Hisse Adı": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+      "Hisse Fiyatı": 42.48
     },
     {
       "Hisse Kodu": "TKFEN",
@@ -6998,16 +6998,6 @@
       "Hisse Fiyatı": 23.22
     },
     {
-      "Hisse Kodu": "AAGYO",
-      "Hisse Adı": "Agaoglu Avrasya Gayrimenkul Yatirim Ortakligi AS",
-      "Hisse Fiyatı": 12.94
-    },
-    {
-      "Hisse Kodu": "MASFN",
-      "Hisse Adı": "Masfen Enerji A.S.",
-      "Hisse Fiyatı": 45.66
-    },
-    {
       "Hisse Kodu": "EKIM",
       "Hisse Adı": "EKİM TURİZM TİCARET VE SANAYİ A.Ş.",
       "Hisse Fiyatı": 18.9
@@ -7018,14 +7008,19 @@
       "Hisse Fiyatı": 77.7
     },
     {
+      "Hisse Kodu": "MASFN",
+      "Hisse Adı": "Masfen Enerji A.S.",
+      "Hisse Fiyatı": 45.66
+    },
+    {
       "Hisse Kodu": "KARCL",
       "Hisse Adı": "KARKARDEMIR CELIK SANAYI AS",
       "Hisse Fiyatı": 38.5
     },
     {
-      "Hisse Kodu": "ORZAX",
-      "Hisse Adı": "Orzaks Ilac ve Kimya Sanayi Ticaret A.S.",
-      "Hisse Fiyatı": 104
+      "Hisse Kodu": "ENPRA",
+      "Hisse Adı": "Enpara Bank A.S.",
+      "Hisse Fiyatı": 58
     },
     {
       "Hisse Kodu": "ALTIN",
@@ -7033,9 +7028,14 @@
       "Hisse Fiyatı": 68.04
     },
     {
-      "Hisse Kodu": "ENPRA",
-      "Hisse Adı": "Enpara Bank A.S.",
-      "Hisse Fiyatı": 58
+      "Hisse Kodu": "ORZAX",
+      "Hisse Adı": "Orzaks Ilac ve Kimya Sanayi Ticaret A.S.",
+      "Hisse Fiyatı": 104
+    },
+    {
+      "Hisse Kodu": "AAGYO",
+      "Hisse Adı": "Agaoglu Avrasya Gayrimenkul Yatirim Ortakligi AS",
+      "Hisse Fiyatı": 12.94
     }
   ],
   "doviz": [
@@ -7045,15 +7045,15 @@
     },
     {
       "Sembol": "Dolar",
-      "Fiyat": "47,5213"
+      "Fiyat": "47,5237"
     },
     {
       "Sembol": "Euro",
-      "Fiyat": "54,7080"
+      "Fiyat": "54,7332"
     },
     {
       "Sembol": "BTCUSD",
-      "Fiyat": "62,594"
+      "Fiyat": "62,752"
     },
     {
       "Sembol": "Tahvil",
@@ -7061,11 +7061,11 @@
     },
     {
       "Sembol": "Brent Petrol",
-      "Fiyat": "88,25"
+      "Fiyat": "87,94"
     },
     {
       "Sembol": "Gr Altın",
-      "Fiyat": "6.172,42"
+      "Fiyat": "6.177,69"
     },
     {
       "Sembol": "Çey.Altın",
@@ -7089,7 +7089,7 @@
     },
     {
       "Sembol": "Ons Altın",
-      "Fiyat": "4.039,65"
+      "Fiyat": "4.042,99"
     }
   ]
 }
